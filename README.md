@@ -1,1 +1,3 @@
 # Alexa-Skills
+Alexa skills and commands can be used on Amazon Echo, Echo Dot, Fire TV, and other Alexa-enabled devices. Learn the most useful today!
+There are some skills of mine, create your own...
